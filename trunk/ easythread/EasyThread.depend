@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1228686931 source:/home/olivier/Documents/UTBM/RE52/EasyThread/src/EasyThread.cpp
+	"../include/EasyThread.h"
+
+1228687030 /home/olivier/Documents/UTBM/RE52/EasyThread/include/EasyThread.h
+	<pthread.h>
+	<iostream>
+	<stdio.h>
+
